@@ -11,7 +11,7 @@ VERSION : 1.1
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=devidev-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>iNeed - Juntos somos fortes</title>
+	<title>MyWorld - Juntos somos fortes</title>
 	
 	<!-- [ FONT-AWESOME ICON ] 
         =========================================================================================================================-->
@@ -58,7 +58,7 @@ VERSION : 1.1
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-            <a class="navbar-brand" href="index.html">i<span class="themecolor">Need</span></a>
+            <a class="navbar-brand" href="index.html">My<span class="themecolor">World</span></a>
         </div>
 		
 		<a class="navbar-brand" href="cadastroMembro.php" style="margin-left:340px">Cadastre-se</a>
@@ -85,7 +85,7 @@ VERSION : 1.1
         <div class="container ">
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                   <h1>Seja bem vindo ao <strong>i<span class="themecolor">Need</span></strong></h1>
+                   <h1>Seja bem vindo ao <strong>My<span class="themecolor">World</span></strong></h1>
                <p class="lead">Juntos somos <strong>fortes!</strong></p>
                 <br />
 				<form method="POST" action="login.php">

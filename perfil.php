@@ -262,7 +262,7 @@ VERSION : 1.1
  <footer class="footer">
         <div class="container">
             <div class="pull-left fnav">
-                <p>iNeed 2017. Designed by <a href="http://www.your-plugin.com" class="themecolor">iNeed</a></p>
+                <p>MyWorld 2017. Designed by <a href="http://www.your-plugin.com" class="themecolor">MyWorld</a></p>
             </div>
             <div class="pull-right fnav">
                 <ul class="footer-social">
